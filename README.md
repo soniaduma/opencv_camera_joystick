@@ -6,7 +6,7 @@ This project demonstrates practical applications of image processing, contour de
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The application detects a predefined color in a live webcam feed and converts its position into directional mouse movement.
 
@@ -14,7 +14,7 @@ The movement speed is dynamically adjusted based on distance from the screen cen
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 1. Capture webcam frame
 2. Apply color mask
@@ -29,7 +29,7 @@ The movement speed is dynamically adjusted based on distance from the screen cen
 
 ---
 
-## ⚙️ Technologies
+## Technologies
 
 - Python 3
 - OpenCV
@@ -38,7 +38,7 @@ The movement speed is dynamically adjusted based on distance from the screen cen
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/soniaduma/opencv_camera_joystick
@@ -46,3 +46,5 @@ cd opencv_camera_joystick
 python -m venv venv
 source venv/Scripts/activate   # Windows (Git Bash)
 pip install -r requirements.txt
+
+Made by a human for humans, please hire me: soniaduma.dev
