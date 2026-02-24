@@ -1,4 +1,4 @@
-# 🎮 Vision-Based Mouse Controller (OpenCV)
+# Vision-Based Mouse Controller (OpenCV)
 
 A real-time computer vision project that transforms a colored object into a virtual joystick for mouse control using a webcam.
 
@@ -48,4 +48,4 @@ source venv/Scripts/activate   # Windows (Git Bash)
 pip install -r requirements.txt
 ```
 
-Made by a human for humans, please hire me: soniaduma.dev
+Made by a human for humans, please hire me: [soniaduma.dev](https://soniaduma.dev/)
