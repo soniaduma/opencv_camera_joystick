@@ -47,4 +47,6 @@ python -m venv venv
 source venv/Scripts/activate   # Windows (Git Bash)
 pip install -r requirements.txt
 
+---
+
 Made by a human for humans, please hire me: soniaduma.dev
