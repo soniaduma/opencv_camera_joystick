@@ -14,18 +14,6 @@ The movement speed is dynamically adjusted based on distance from the screen cen
 
 ---
 
-## 🧠 Technical Concepts Used
-
-- Real-time video processing (OpenCV)
-- Color-based segmentation (BGR thresholding)
-- Contour detection & filtering
-- Image moments for centroid calculation
-- Polar angle computation using `atan2`
-- Distance-based sensitivity scaling
-- System-level mouse automation (PyAutoGUI)
-
----
-
 ## 🏗 Architecture
 
 1. Capture webcam frame
@@ -53,7 +41,7 @@ The movement speed is dynamically adjusted based on distance from the screen cen
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/soniaduma/opencv_camera_joystick.git
+git clone https://github.com/soniaduma/opencv_camera_joystick
 cd opencv_camera_joystick
 python -m venv venv
 source venv/Scripts/activate   # Windows (Git Bash)
